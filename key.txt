@@ -1,3 +1,7 @@
 AIzaSyCv99j2e8ktkTJBaQCBVt0LmSrJtXnDl5M
 
 https://www.w3schools.com/graphics/google_maps_intro.asp
+
+https://console.cloud.google.com/apis/credentials?folder=&project=gmap-galvani
+
+https://www.npmjs.com/package/googlemaps
